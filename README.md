@@ -30,6 +30,6 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogianpaneto&show_icons=true&theme=tokyonight&rank_icon=github) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogianpaneto&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogianpaneto&show_icons=true&theme=dark&rank_icon=github&locale=pt-br&include_all_commits=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogianpaneto&layout=donut&theme=dark&locale=pt-br)
 
