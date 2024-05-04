@@ -1,4 +1,3 @@
-
 # Hey, there! You can call me Gian! 😊
 <img align="right" width="300px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQwMDI5MjEsIm5iZiI6MTcxNDAwMjYyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI0VDIzNTAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjNDU4NzYwYWMyZTJjOTU1MGJkOTgzNzRlY2I2YmUxNTI3NzYwYjc4NWFmZTZlZTExNDY4ZDdlMzBiMjJmMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.V_hjUSBNm91MOkDGJoedah1ghJTrWAoJgsaLBa-Ps_U" />
 
@@ -15,6 +14,10 @@ You can find and contact me on the following social media:
 🌎 Brazilian <br>
 📚 1/8 Information Systems at IFES Campus Serra (Federal Institute) <br>
 📫 E-mail me at <b>g<span>ianpaneto@gmail.</span>com</b> <br>
+
+# 
+
+At the moment, contributing on the project: [Exercícios Lógica](https://github.com/hei-lima/exercicioslogica)
 
 #
 
