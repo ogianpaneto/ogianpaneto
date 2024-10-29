@@ -11,7 +11,7 @@ Entre em contato comigo através das seguintes redes:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/397813900374048779)
 
 🥳 19 anos de idade <br>
-📚 1/8 Sistemas de Informação no IFES Campus Serra<br>
+📚 2/8 Sistemas de Informação no IFES Campus Serra<br>
 ⚙️ DevOps do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) no projeto ConectaFapes <br>
 📫 E-mail:  <b>g<span>ianpaneto@gmail.</span>com</b> <br>
 
