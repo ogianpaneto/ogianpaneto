@@ -1,11 +1,5 @@
 # Olá! Eu sou o Gian! 😊
 
-<p style="
-  display: none; 
-  @media (prefers-color-scheme: light) { display: block; }">
-  This paragraph appears only in light mode.
-</p>
-
 Bem-vindo(a) à minha página do GitHub!<br>
 Entre em contato comigo através das seguintes redes:
 <br>
