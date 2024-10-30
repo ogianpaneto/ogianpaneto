@@ -1,5 +1,8 @@
 # Olá! Eu sou o Gian! 😊
-<img align="right" width="300px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyOTgwMDIsIm5iZiI6MTcyNTI5NzcwMiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDE3MjE0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwZWIzOWYzZGVhNGVjNmI4NjBjMjViZjkzMWNkNmY2ZDRhYmUxOTVlOGU4MDVkMjhhMjIyYWM4YThjNzAyN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1ijtBBmCFbjvFBco-89MF0qzaKtKAM0G9sAIcwee1RQ" />
+
+<p media="(prefers-color-scheme: light)">
+Usando Lightmode? Todo mundo sabe que Dev usa Darkmode!
+</p>
 
 Bem-vindo(a) à minha página do GitHub!<br>
 Entre em contato comigo através das seguintes redes:
