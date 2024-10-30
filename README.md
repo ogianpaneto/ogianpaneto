@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gian! 😊
 
-<p media="(prefers-color-scheme: light)">
+<p class="light-mode-only">
 Usando Lightmode? Todo mundo sabe que Dev usa Darkmode!
 </p>
 
@@ -38,4 +38,12 @@ Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exerc
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogianpaneto&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogianpaneto&layout=donut&theme=dark)
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    .light-mode-only {
+      display: none;
+    }
+  }
+</style>
 
