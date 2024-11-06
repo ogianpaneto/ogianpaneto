@@ -22,7 +22,7 @@ Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exerc
 
 ### 🔧 Aprendendo...
 
- <p align="center">
+ <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,docker,linux,vscode,git,github,gitlab,grafana,prometheus,&perline=14" />
   </a>
