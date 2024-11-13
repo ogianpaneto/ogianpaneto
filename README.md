@@ -11,7 +11,7 @@ Entre em contato comigo através das seguintes redes:
 
 🥳 19 anos de idade <br>
 📚 2/8 Sistemas de Informação no IFES Campus Serra<br>
-⚙️ DevOps do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) no projeto ConectaFapes <br>
+⚙️ Bolsista do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) <br>
 📫 E-mail:  <b>g<span>ianpaneto@gmail.</span>com</b> <br>
 
 # 
