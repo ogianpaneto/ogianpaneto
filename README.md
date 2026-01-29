@@ -9,7 +9,7 @@ Entre em contato comigo através das seguintes redes:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianpaneto/) &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/397813900374048779)
 
-🥳 19 anos de idade <br>
+🥳 20 anos de idade <br>
 📚 4/8 Sistemas de Informação no IFES Campus Serra<br>
 ⚙️ Bolsista do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) <br>
 📫 E-mail:  <b>g<span>ianpaneto@gmail.</span>com</b> <br>
@@ -34,5 +34,6 @@ Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exerc
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogianpaneto&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogianpaneto&layout=donut&theme=dark)
+
 
 
