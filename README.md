@@ -11,8 +11,8 @@ Entre em contato comigo através das seguintes redes:
 
 🥳 20 anos de idade <br>
 📚 4/8 Sistemas de Informação no IFES Campus Serra<br>
-<!-- ⚙️ Bolsista do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) <br> -->
 📫 E-mail:  <b>g<span>ianpaneto@gmail.</span>com</b> <br>
+<!-- ⚙️ Bolsista do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) <br> -->
 
 # 
 
@@ -34,6 +34,7 @@ Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exerc
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogianpaneto&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogianpaneto&layout=donut&theme=dark)
+
 
 
 
