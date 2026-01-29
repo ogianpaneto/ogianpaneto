@@ -31,9 +31,10 @@ Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exerc
 #
 
 <br>
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogianpaneto&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogianpaneto&layout=donut&theme=dark)
+
 
 
 
