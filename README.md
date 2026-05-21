@@ -9,8 +9,8 @@ Entre em contato comigo através das seguintes redes:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gianpaneto) &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/397813900374048779)
 
-🥳 20 anos de idade <br>
-📚 4/8 Sistemas de Informação no IFES Campus Serra<br>
+🥳 21 anos de idade <br>
+📚 5/8 Sistemas de Informação no IFES Campus Serra<br>
 📫 E-mail:  <b>g<span>ianpaneto@gmail.</span>com</b> <br>
 <!-- ⚙️ Bolsista do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) <br> -->
 
