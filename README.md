@@ -12,11 +12,10 @@ Entre em contato comigo através das seguintes redes:
 🥳 21 anos de idade <br>
 📚 5/8 Sistemas de Informação no IFES Campus Serra<br>
 📫 E-mail:  <b>g<span>ianpaneto@gmail.</span>com</b> <br>
-<!-- ⚙️ Bolsista do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) <br> -->
 
 # 
 
-Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exercicioslogica)
+Atualmente contribuindo: [Cronomarket](https://github.com/GustavoACaetano/cronomarket)
 
 #
 
@@ -24,7 +23,7 @@ Atualmente contribuindo: [Exercícios Lógica](https://github.com/hei-lima/exerc
 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,docker,linux,vscode,git,github,gitlab,grafana,prometheus,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,vue,tailwind,java,spring,django,docker,linux,vscode,git,github,grafana,prometheus,&perline=14" />
   </a>
 </p>
 
